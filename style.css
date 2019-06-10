@@ -1,0 +1,25 @@
+body {
+    background: #fefefe;
+}
+
+.mainHeader {
+    color: tomato;
+    background: greenyellow;
+}
+
+p {
+    color: darkblue;
+}
+
+.sectionHeader {
+    color: #1460aa;
+    font-size: 64px;
+}
+
+.house3 {
+    color: goldenrod;
+}
+
+.articleHouse1{
+    color: firebrick;
+}
